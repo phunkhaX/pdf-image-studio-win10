@@ -109,7 +109,7 @@ class FileListPanel(ctk.CTkFrame):
 class App(ctk.CTk):
     def __init__(self) -> None:
         super().__init__()
-        self.title("PDF & Image Studio")
+        self.title("PDF & Image Studio by //PHUNKHA BORO//")
         self.geometry("860x640")
         self.minsize(780, 580)
 
